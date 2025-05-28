@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Tanner and I like to simplify my digital life, so i am learning to use GITHUB
 <!--
 **SMASHPOTATOS/SMASHPOTATOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
